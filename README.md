@@ -93,6 +93,19 @@ streamlit run app_frontend.py
 * Advanced analytics dashboard
 * Multi-model comparison
 
+## Screenshots
+
+### Home Page
+![Home Page](screenshots/home_page.png)
+
+### Manual Prediction
+![Manual Prediction](screenshots/manual_prediction.png)
+
+### Dashboard
+![Dashboard](screenshots/dashboard.png)
+
+### SHAP Explanation
+![SHAP Explanation](screenshots/shap_explanation.png)
 ## Author
 
 Hari Prakash
