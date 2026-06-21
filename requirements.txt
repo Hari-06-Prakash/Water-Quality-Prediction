@@ -1,0 +1,10 @@
+streamlit
+pandas
+numpy
+scikit-learn
+matplotlib
+seaborn
+shap
+joblib
+cx_Oracle
+streamlit-option-menu
